@@ -1,0 +1,30 @@
+Metadata of "hiki" was published successfully.
+contracts/HIKI Contract Source Code.sol : ipfs://QmdR3kQWFFjZWtrPNVEpagHwWYiaC9cCw1MSqEtrVzRqyk
+metadata.json : ipfs://QmUTXxcmGcpJHrUtNcPVZJ2WPRqWbuoj9pGuaNQdDfxUes
+
+compiler: Solidity
+version: 0.5.16+commit.9c3226ce
+language: Solidity
+output:
+abi:
+0:
+devdoc:
+methods:
+userdoc:
+methods:
+settings:
+compilationTarget: contracts/HIKI Contract Source Code.sol:
+
+Context
+evmVersion: istanbul
+libraries:
+optimizer:
+enabled: true
+runs: 200
+remappings:
+sources: contracts/HIKI Contract Source Code.sol:
+keccak256: 0xa7216e5af8a8238036e4781e0274ff8aad0d2ed509c6cdb4daa13f8dd4e120cf
+urls:
+0: bzz-raw://524439fb568b6e880923debac79594ccb02f323f8943a010d98eebb529e5d806
+1: dweb:/ipfs/QmdR3kQWFFjZWtrPNVEpagHwWYiaC9cCw1MSqEtrVzRqyk
+version: 1
