@@ -1,13 +1,30 @@
+creation of HIKI pending...
+
+[block:9890593 txIndex:34] from: 0xC44...d3CBAto: HIKI.(constructor)value: 0 weidata: 0x608...00032logs: 2hash: 0x421...60bfe
+status	true Transaction mined and execution succeed
+transaction hash	0x42190c121ea30d34580bbad52fa307d452e4f249203b5737e9d2f1aa30a60bfe
+from	0xC44457909E68783B76bda4f15e29310aC6Ad3CBA
+to	HIKI.(constructor)
+gas	891032 gas
+transaction cost	891032 gas
+hash	0x42190c121ea30d34580bbad52fa307d452e4f249203b5737e9d2f1aa30a60bfe
+input	0x608...00032
+decoded input	{}
+decoded output	 -
+logs	[ { "from": "0x52cE6a0Ee1092aA7203bf46b1062096C2eAD091B", "topic": "0x8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0", "event": "OwnershipTransferred", "args": { "0": "0x0000000000000000000000000000000000000000", "1": "0xC44457909E68783B76bda4f15e29310aC6Ad3CBA", "previousOwner": "0x0000000000000000000000000000000000000000", "newOwner": "0xC44457909E68783B76bda4f15e29310aC6Ad3CBA" } }, { "from": "0x52cE6a0Ee1092aA7203bf46b1062096C2eAD091B", "topic": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef", "event": "Transfer", "args": { "0": "0x0000000000000000000000000000000000000000", "1": "0xC44457909E68783B76bda4f15e29310aC6Ad3CBA", "2": "1000000000000000000000000", "from": "0x0000000000000000000000000000000000000000", "to": "0xC44457909E68783B76bda4f15e29310aC6Ad3CBA", "value": "1000000000000000000000000" } } ]
+value	0 wei
+
+
 Metadata of "hiki" was published successfully.
 contracts/HIKI Contract Source Code.sol : ipfs://QmdR3kQWFFjZWtrPNVEpagHwWYiaC9cCw1MSqEtrVzRqyk
 metadata.json : ipfs://QmUTXxcmGcpJHrUtNcPVZJ2WPRqWbuoj9pGuaNQdDfxUes
+
 
 compiler: Solidity
 version: 0.5.16+commit.9c3226ce
 language: Solidity
 output:
-abi:
-0:
+abi: 0:
 devdoc:
 methods:
 userdoc:
