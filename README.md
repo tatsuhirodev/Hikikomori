@@ -35,4 +35,4 @@ This repo contains important data related to HIKI Token.
     
 13. Welcome to the #HIKIArmy!
 
-Learn more about Hikikomori Token in the white paper: https://github.com/tatsuhirodev?tab=projects
+**Learn more about Hikikomori Token in the white paper: https://github.com/tatsuhirodev?tab=projects**
