@@ -4,7 +4,7 @@ This repo contains important data related to HIKI Token.
 
 ----------
 
-Step-by-step Instructions for Purchasing HIKI Tokens
+**Step-by-step Instructions for Purchasing HIKI Tokens**
 
 1. First, obtain some Binance Coin (BNB):
     -Buy BNB directly from Binance here: https://www.binance.com/en/buy-sell-crypto
