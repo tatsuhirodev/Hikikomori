@@ -14,9 +14,7 @@ This repo contains important data related to HIKI Token.
     
 2. Download and install a MetaMask wallet on your computer or phone (and be sure to backup your password, private key(s) and secret recovery phrase): https://metamask.io
     
-    _-Also make sure you add and switch to the Binance Smart Chain (Mainnet) within your wallet_
-    
-    _-Review these instructions to learn how: https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain_
+    _-Also make sure you add and switch to the Binance Smart Chain (Mainnet) within your wallet. Review these instructions to learn how: https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain_
     
 3. Go back to the site or app where you purchased BNB and send it to your MetaMask wallet address (it is located near the top and looks something like '0xC444...3CBA' ~ it is highly recommended that you copy and paste it directly, rather than inputting each character manually to avoid mistakes and financial loss)
 4. Go to PancakeSwap: https://pancakeswap.finance/swap#/swap
