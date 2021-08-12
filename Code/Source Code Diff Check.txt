@@ -40,7 +40,7 @@ Removed lines 490-502 (Binance contract template):
   }	
   /**
   
-  Removed lines 523-539:
+Removed lines 523-539:
   
     }	
   /** @dev Creates `amount` tokens and assigns them to `account`, increasing	
