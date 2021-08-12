@@ -10,7 +10,7 @@ This repo contains important data related to HIKI Token.
     
     _-Buy BNB directly from Binance here: https://www.binance.com/en/buy-sell-crypto_
     
-    _-Or, purchase them from other centralized exchanges_
+    _-Or, purchase it from other centralized exchanges_
     
 2. Download and install a MetaMask wallet on your computer or phone (and be sure to backup your password, private key(s) and secret recovery phrase): https://metamask.io
     
