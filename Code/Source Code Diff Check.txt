@@ -1,4 +1,4 @@
-View a diff check of the original Binance published BEP-20 contract template and Hikikomori Token's contract source code. Binance's template is located on the left and HIKI's on the right.
+View a diff of the original Binance published BEP-20 contract template and Hikikomori Token's contract source code. Binance's template is located on the left and HIKI's on the right.
 
 Binance source code link (title BEP20Token.template): https://docs.binance.org/smart-chain/developer/BEP20.html
 
