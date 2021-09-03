@@ -1,4 +1,8 @@
-“Instead of being afraid of the challenge and failure, be afraid of avoiding the challenge and doing nothing.” -Soichiro Honda
+![beautiful-mount-fuji-japan](https://user-images.githubusercontent.com/88683766/131943771-5fcb6fdf-9a10-4319-a5d8-f9de63e85046.jpg)
+
+_“Instead of being afraid of the challenge and failure, be afraid of avoiding the challenge and doing nothing.” -Soichiro Honda_
+
+-----
 
 Hello. My name is Tatsuhiro and here is a brief story about how I came up with the idea of Hikikomori Token.
 
@@ -58,4 +62,4 @@ I believe that if this project is successful, other tokens like HIKI will emerge
 
 Perhaps “Inform with your token,” or something to that effect, will be one too.
 
-// https://tatsuhirodev.medium.com/introduction-549767998da6
+https://tatsuhirodev.medium.com/introduction-549767998da6
